@@ -27,5 +27,3 @@ def printer(names)
     puts room
   end
 end
-
-binding.pry
